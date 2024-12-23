@@ -1,6 +1,0 @@
-requests
-numpy
-pandas
-google-generativeai
-Flask
-aiResponse
